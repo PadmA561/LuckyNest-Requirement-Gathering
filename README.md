@@ -1,4 +1,6 @@
-# LuckyNest-Requirement-Gathering
+## 📷 Requirement Gathering Diagram
+
+![Requirement Gathering](IMG-20260710-WA0020.jpg)# LuckyNest-Requirement-Gathering
 I completed the **Requirement Gathering** phase for the LuckyNest PG Management System.
 
 ### 🎯 Key Requirements
